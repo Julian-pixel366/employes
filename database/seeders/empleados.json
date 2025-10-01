@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "phone": "3001234567",
+      "address": "Calle 123 #45-67",
+      "position": "Desarrollador",
+      "salary": 1200,
+      "skills": ["Laravel", "Vue", "MySQL"]
+    },
+    {
+      "name": "María Gómez",
+      "email": "maria.gomez@example.com",
+      "phone": "3109876543",
+      "address": "Carrera 89 #10-22",
+      "position": "Diseñadora UI/UX",
+      "salary": 1500,
+      "skills": ["Figma", "Illustrator", "Photoshop"]
+    },
+    {
+      "name": "Carlos Rodríguez",
+      "email": "carlos.rodriguez@example.com",
+      "phone": "3205557788",
+      "address": "Avenida Siempre Viva 742",
+      "position": "QA Tester",
+      "salary": 1000,
+      "skills": ["Postman", "Cypress", "Jest"]
+    }
+  ]
+  
